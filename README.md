@@ -4,7 +4,7 @@ Analyzr is a web-based application to analyze twitter keywords, images and tweet
 ## How to run
 
 #### Live URL
-The project demo is available at the following URL
+The project demo is available at the following URL (Not working as of Jan, 2019)
 
     http://CS6030ProjectLoadBalancer-1272136303.us-east-2.elb.amazonaws.com
 
