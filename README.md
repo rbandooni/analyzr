@@ -15,7 +15,7 @@ The project demo is available at the following URL (Not working as of Jan, 2019)
   #### Change directory to project folder 
   
 
-    cd cs6030Project/   
+    cd analyzr/   
 
  
 #### Activate virtual environment
